@@ -1,0 +1,8 @@
+i have working with second local repository git 
+
+there are 3 branches 
+   main 
+   gitbranch1
+   git branch2 (i am currently active )  here i created dummy2.txt but it is not currently available on other branches including main 
+
+   and i am goig to push it on remote second repository branch 
